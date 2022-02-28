@@ -1,2 +1,3 @@
-print("I'm Hungry")
+print("I'm not Hungry")
+print("I'm Stupid")
 
